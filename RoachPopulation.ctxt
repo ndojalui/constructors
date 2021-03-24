@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RoachPopulation
+comment0.text=\r\n\ Roach\ Population\ class,\ simulations\ growth\ of\ roach\ population\ in\ a\ kitchen\r\n\ \r\n\ @author\ Luigj\ Ndoja\ \r\n\ \r\n
+comment1.params=startPop
+comment1.target=RoachPopulation(int)
+comment2.params=
+comment2.target=void\ growth()
+comment3.params=
+comment3.target=void\ spray()
+comment4.params=
+comment4.target=int\ getSize()
+numComments=5

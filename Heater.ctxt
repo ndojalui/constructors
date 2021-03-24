@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Heater
+comment0.text=\r\n\ Heater\ class,\ simulates\ a\ heater\ that\ can\ raise\ or\ decrease\ by\ 5\ degrees\r\n\ \r\n\ @author\ Luigj\ Ndoja\ \r\n\r\n
+comment1.params=
+comment1.target=Heater()
+comment2.params=
+comment2.target=void\ raiseTemp()
+comment3.params=
+comment3.target=void\ lowerTemp()
+comment4.params=
+comment4.target=int\ showTemp()
+numComments=5

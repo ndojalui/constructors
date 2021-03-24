@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Car\ Class,\ Creates\ a\ car\ that\ can\ move\ around,\ \r\n\ \r\n\ @author\ Luigj\ Ndoja\r\n\ \r\n
+comment1.params=licensePlateIn\ maxSpeedIn
+comment1.target=Car(java.lang.String,\ int)
+comment2.params=speedIn
+comment2.target=void\ setSpeed(int)
+comment3.params=speedIn
+comment3.target=void\ setMaxSpeed(int)
+comment4.params=deltaV
+comment4.target=void\ accelerate(int)
+comment5.params=licensePlateIn
+comment5.target=void\ setLicensePlate(java.lang.String)
+comment6.params=
+comment6.target=int\ getSpeed()
+comment7.params=
+comment7.target=int\ getMaxSpeed()
+comment8.params=
+comment8.target=java.lang.String\ getLicensePlate()
+comment9.params=direction
+comment9.target=void\ move(java.lang.String)
+numComments=10
